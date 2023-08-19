@@ -60,4 +60,13 @@ Encoding as JPEG: The code uses the Pillow (PIL) library to open an input image 
 
 Decoding JPEG: The code also shows how to decode a JPEG image using Pillow, displaying the decoded image.
 
+Contributing
+Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve this example.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Author
+P Vaibhav
+
 
