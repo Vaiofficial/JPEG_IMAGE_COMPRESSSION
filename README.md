@@ -52,7 +52,12 @@ Follow these steps to set up and run the JPEG compression code on your local mac
    5. You can then decode the JPEG image using the provided code:
    python jpeg_compression.py
 
-###CodeExplanation
+
+
+
+Code Explanation
+---------
+
 
 The code demonstrates the encoding and decoding of an image as a JPEG. It involves the following key processes:
 
